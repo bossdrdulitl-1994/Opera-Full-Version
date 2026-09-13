@@ -244,4 +244,4 @@ This repository serves as the official landing page for Opera. The software is d
 **Get the most recent version of Opera today!**
 
 ---
-**Last updated:** 2026-09-12 23:37:32 UTC
+**Last updated:** 2026-09-13 02:22:46 UTC
